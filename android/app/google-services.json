@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518462713054",
+    "project_id": "help-link-211cd",
+    "storage_bucket": "help-link-211cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518462713054:android:5ab60239a1093bcb67e64f",
+        "android_client_info": {
+          "package_name": "com.example.hack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeFkGFjxDtHmxwbSQyXtG2Qa_Uc5VfBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
